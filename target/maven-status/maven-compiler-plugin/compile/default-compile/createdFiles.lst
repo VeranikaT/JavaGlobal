@@ -1,0 +1,10 @@
+com\trafimchuk\veranika\jwt\config\JwtAuthenticationEntryPoint.class
+com\trafimchuk\veranika\jwt\SpringBootJWTApp.class
+com\trafimchuk\veranika\jwt\service\JwtUserDetailsService.class
+com\trafimchuk\veranika\jwt\config\WebSecurityConfig.class
+com\trafimchuk\veranika\jwt\model\JwtRequest.class
+com\trafimchuk\veranika\jwt\controller\HelloController.class
+com\trafimchuk\veranika\jwt\model\JwtResponse.class
+com\trafimchuk\veranika\jwt\config\JwtRequestFilter.class
+com\trafimchuk\veranika\jwt\config\JwtTokenUtil.class
+com\trafimchuk\veranika\jwt\controller\JwtAuthenticationController.class
