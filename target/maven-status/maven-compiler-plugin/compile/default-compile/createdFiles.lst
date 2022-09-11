@@ -1,0 +1,5 @@
+com\trafimchuk\veranika\crud\repository\ProductRepository.class
+com\trafimchuk\veranika\crud\SpringBootFlyway.class
+com\trafimchuk\veranika\crud\service\ProductService.class
+com\trafimchuk\veranika\crud\entity\Product.class
+com\trafimchuk\veranika\crud\controller\ProductController.class
